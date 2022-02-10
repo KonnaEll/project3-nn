@@ -1,0 +1,3 @@
+Test sample 0 average loss: 0.04758063093659463
+Test sample 1 average loss: 0.06119170404044848
+Test sample 2 average loss: 0.07405089093277102
